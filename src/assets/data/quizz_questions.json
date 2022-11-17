@@ -1,0 +1,55 @@
+{
+  "title":"Você conhece: irmão do Jorel?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Em que temporada está?",
+      "options":[
+        {"id": 1, "name":"Quarta", "alias":"A"},
+        {"id": 2, "name":"Primeira", "alias":"B"},
+        {"id": 3, "name":"Terceira", "alias":"B"},
+        {"id": 4, "name":"Quinta", "alias":"B"},
+        {"id": 5, "name":"Segunda", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Quantos filhos Danuza e Edson têm?",
+      "options":[
+        {"id": 1, "name":"Três", "alias":"A"},
+        {"id": 2, "name":"Quatro", "alias":"B"},
+        {"id": 3, "name":"Dois", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Quem são as avós?",
+      "options":[
+        {"id": 1, "name":"Lara e Jennifer ", "alias":"B"},
+        {"id": 2, "name":"Catiane e Adelaide", "alias":"B"},
+        {"id": 3, "name":"Beth e Débora", "alias":"B"},
+        {"id": 4, "name":"Gigi e Juju", "alias":"A"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual o nome verdadeiro do irmão do Jorel?",
+      "options":[
+        {"id": 1, "name":"Juliano", "alias":"B"},
+        {"id": 2, "name":"Nunca disseram!", "alias":"A"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Quantos anos o irmão do Jorel tem?",
+      "options":[
+        {"id": 1, "name":"8 anos", "alias":"A"},
+        {"id": 2, "name":"6 anos", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Sim, você conhece!!",
+    "B": "Ohhh!! Não! Você nunca assistiu!"
+  }
+}
